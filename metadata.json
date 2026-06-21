@@ -1,0 +1,8 @@
+{
+  "name": "Voyago",
+  "description": "Voyago is a premium luxury travel platform featuring interactive Google Maps exploration, custom tour and hotel booking, AI-powered itinerary generation matching budget and interests, and automatic integration with Gmail, Google Docs, and Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
